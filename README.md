@@ -1,2 +1,1 @@
-# Python-Project
-Data Science Mini Project-July
+Gender prediction based on different acoustic parameters.
